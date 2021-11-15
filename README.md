@@ -1,5 +1,7 @@
 ## Manipulando_DOM_JavaScript_Alura
- Curso de js na Web da Alura
+ Curso de js na Web da Alura. Projeto com un intuíto de criar uma a aplicacão para lançar pequenas tarefas.
+ 
+ ![ceep](https://user-images.githubusercontent.com/20805453/141798154-4aafdf3a-bb11-43f5-9ddc-a533aac57981.PNG)
 
 # Modulo 1 - Conhecendo a DOM
 - Percorrer a árvore do DOM
@@ -37,9 +39,6 @@
 - insertBefore(pai, filho): Coloca um nó antes do outro.
 - replaceChild( elemento1, elemento2): Substitui o nó elemento 1 pelo nó elemento2.
 - removeChild(elemento): Remove um nó da árvore.
-
-
-
 
 # Conteúdo abordados
 
